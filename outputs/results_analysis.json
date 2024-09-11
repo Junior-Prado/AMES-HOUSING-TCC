@@ -1,0 +1,86 @@
+{
+    "Regress\u00e3o Linear": {
+        "p": 68.0,
+        "rmse score": 24072.847455536248,
+        "rmse-log score": 0.1254301133803617,
+        "R2 score": 0.8975820583582809,
+        "R2-log score": 0.8920783340667766
+    },
+    "Regress\u00e3o LASSO": {
+        "p": 69.0,
+        "rmse score": 24008.30984842743,
+        "rmse-log score": 0.12468472733537675,
+        "R2 score": 0.8981304728052983,
+        "R2-log score": 0.8933572020956386
+    },
+    "Regress\u00e3o Ridge": {
+        "p": 68.0,
+        "rmse score": 23974.136881582963,
+        "rmse-log score": 0.12394496543615849,
+        "R2 score": 0.8984202646708702,
+        "R2-log score": 0.8946188842605676
+    },
+    "Rede El\u00e1stica": {
+        "p": 68.0,
+        "rmse score": 23953.239527178164,
+        "rmse-log score": 0.12342555486028381,
+        "R2 score": 0.8985972739688715,
+        "R2-log score": 0.8955002653774027
+    },
+    "K-Vizinhos Mais Pr\u00f3ximos": {
+        "p": 61.0,
+        "rmse score": 26727.17097453781,
+        "rmse-log score": 0.13418632036910863,
+        "R2 score": 0.873751246348693,
+        "R2-log score": 0.8764844891690741
+    },
+    "\u00c1rvore de Decis\u00e3o": {
+        "p": 49.0,
+        "rmse score": 28823.94041857787,
+        "rmse-log score": 0.1554165855192477,
+        "R2 score": 0.8531655981349476,
+        "R2-log score": 0.8343086876760625
+    },
+    "\u00c1rvores Extras": {
+        "p": 67.0,
+        "rmse score": 21956.80976080236,
+        "rmse-log score": 0.11448087699049572,
+        "R2 score": 0.9147960764969912,
+        "R2-log score": 0.9100976784975062
+    },
+    "Floresta Aleat\u00f3ria": {
+        "p": 63.0,
+        "rmse score": 24160.592289560154,
+        "rmse-log score": 0.1208242694623756,
+        "R2 score": 0.8968340767712769,
+        "R2-log score": 0.8998586672662983
+    },
+    "Gradiente Boosting Machine": {
+        "p": 63.0,
+        "rmse score": 20535.08063849324,
+        "rmse-log score": 0.1032335105988782,
+        "R2 score": 0.9254729482895139,
+        "R2-log score": 0.926895114072749
+    },
+    "eXtreme Gradient Boosting": {
+        "p": 63.0,
+        "rmse score": 18669.27124742429,
+        "rmse-log score": 0.09678891125464882,
+        "R2 score": 0.9384006900717669,
+        "R2-log score": 0.9357377066463635
+    },
+    "Light Gradient Boosting": {
+        "p": 64.0,
+        "rmse score": 20950.14447139492,
+        "rmse-log score": 0.10217507389982769,
+        "R2 score": 0.922429755551214,
+        "R2-log score": 0.928386494676372
+    },
+    "Categorical Boosting": {
+        "p": 71.0,
+        "rmse score": 19430.508146324082,
+        "rmse-log score": 0.09606642190237233,
+        "R2 score": 0.9332748694016595,
+        "R2-log score": 0.9366935090432135
+    }
+}

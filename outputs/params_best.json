@@ -1,0 +1,121 @@
+{
+    "Regress\u00e3o Linear": {
+        "params": {
+            "fit_intercept": true,
+            "n_jobs": -1,
+            "positive": false
+        },
+        "score": 0.9164492937507067
+    },
+    "Regress\u00e3o LASSO": {
+        "params": {
+            "alpha": 256,
+            "max_iter": 1000,
+            "random_state": 1
+        },
+        "score": 0.9176703153329996
+    },
+    "Regress\u00e3o Ridge": {
+        "params": {
+            "alpha": 64,
+            "max_iter": 1000,
+            "random_state": 1
+        },
+        "score": 0.9171954697655302
+    },
+    "Rede El\u00e1stica": {
+        "params": {
+            "alpha": 0.0625,
+            "l1_ratio": 0.3,
+            "max_iter": 1000,
+            "random_state": 1
+        },
+        "score": 0.917202623778171
+    },
+    "K-Vizinhos Mais Pr\u00f3ximos": {
+        "params": {
+            "n_neighbors": 8,
+            "p": 1,
+            "weights": "distance"
+        },
+        "score": 0.8666800638611413
+    },
+    "\u00c1rvore de Decis\u00e3o": {
+        "params": {
+            "max_depth": 8,
+            "max_leaf_nodes": 128,
+            "min_samples_leaf": 4,
+            "min_samples_split": 2,
+            "random_state": 1
+        },
+        "score": 0.8224297142631041
+    },
+    "\u00c1rvores Extras": {
+        "params": {
+            "max_depth": 16,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2,
+            "n_estimators": 512,
+            "random_state": 1
+        },
+        "score": 0.9137942308873713
+    },
+    "Floresta Aleat\u00f3ria": {
+        "params": {
+            "max_depth": 32,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2,
+            "n_estimators": 256,
+            "random_state": 1
+        },
+        "score": 0.9101523466385597
+    },
+    "Gradiente Boosting Machine": {
+        "params": {
+            "learning_rate": 0.125,
+            "max_depth": 3,
+            "min_samples_leaf": 4,
+            "min_samples_split": 2,
+            "n_estimators": 256,
+            "random_state": 1
+        },
+        "score": 0.9296759940846074
+    },
+    "eXtreme Gradient Boosting": {
+        "params": {
+            "colsample_bytree": 0.6,
+            "learning_rate": 0.0625,
+            "max_depth": 3,
+            "min_child_weight": 4,
+            "n_estimators": 512,
+            "random_state": 1,
+            "subsample": 0.6
+        },
+        "score": 0.9356416463851929
+    },
+    "Light Gradient Boosting": {
+        "params": {
+            "force_row_wise": true,
+            "learning_rate": 0.0625,
+            "max_depth": 8,
+            "min_child_samples": 8,
+            "n_estimators": 256,
+            "num_leaves": 31,
+            "random_state": 1,
+            "verbose": -1
+        },
+        "score": 0.9270802313282367
+    },
+    "Categorical Boosting": {
+        "params": {
+            "border_count": 128,
+            "depth": 4,
+            "iterations": 1024,
+            "l2_leaf_reg": 3,
+            "learning_rate": 0.0625,
+            "random_state": 1,
+            "silent": true
+        },
+        "score": 0.9382682259174322
+    }
+}

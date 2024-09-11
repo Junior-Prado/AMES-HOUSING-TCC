@@ -1,0 +1,76 @@
+{
+    "Regress\u00e3o Linear": {
+        "params": {},
+        "score": 0.9164492937507067
+    },
+    "Regress\u00e3o LASSO": {
+        "params": {
+            "max_iter": 1000,
+            "random_state": 1
+        },
+        "score": 0.916463895090678
+    },
+    "Regress\u00e3o Ridge": {
+        "params": {
+            "max_iter": 1000,
+            "random_state": 1
+        },
+        "score": 0.9164756073420008
+    },
+    "Rede El\u00e1stica": {
+        "params": {
+            "max_iter": 1000,
+            "random_state": 1
+        },
+        "score": 0.905490172838513
+    },
+    "K-Vizinhos Mais Pr\u00f3ximos": {
+        "params": {},
+        "score": 0.8451462820296761
+    },
+    "\u00c1rvore de Decis\u00e3o": {
+        "params": {
+            "random_state": 1
+        },
+        "score": 0.7891057241031002
+    },
+    "\u00c1rvores Extras": {
+        "params": {
+            "random_state": 1
+        },
+        "score": 0.9122704137024993
+    },
+    "Floresta Aleat\u00f3ria": {
+        "params": {
+            "random_state": 1
+        },
+        "score": 0.9088152515899599
+    },
+    "Gradiente Boosting Machine": {
+        "params": {
+            "random_state": 1
+        },
+        "score": 0.9263851439210695
+    },
+    "eXtreme Gradient Boosting": {
+        "params": {
+            "random_state": 1
+        },
+        "score": 0.9142880797386169
+    },
+    "Light Gradient Boosting": {
+        "params": {
+            "force_row_wise": true,
+            "random_state": 1,
+            "verbose": -1
+        },
+        "score": 0.9244299845356375
+    },
+    "Categorical Boosting": {
+        "params": {
+            "random_state": 1,
+            "silent": true
+        },
+        "score": 0.9351041161220671
+    }
+}
